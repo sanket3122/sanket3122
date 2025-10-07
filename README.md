@@ -69,8 +69,8 @@
 
 ## 🏆 Awards and Recognition
  
-* * Earned the **XTRAMILE Award** for automation impact that reduced manual operations significantly — Capgemini, Jun 2025
-* * Best Degree Project (DIPEX 2020)** — State level first place for Crime Record Management mobile app
+* Earned the **XTRAMILE Award** for automation impact that reduced manual operations significantly — Capgemini, Jun 2025
+* **Best Degree Project (DIPEX 2020)** — State level first place for Crime Record Management mobile app
 
 ---
 
