@@ -65,7 +65,7 @@
 * **Stony Brook University** — MS in Data Science, Aug 2025 to May 2027
 * **Government College of Engineering, Karad** — B.Tech in Information Technology, CGPA 8.5 out of 10, Aug 2018 to Jun 2022
 
----
+<!--
 
 ## 🏆 Awards and Recognition
  
@@ -89,7 +89,7 @@ Open to **Summer 2026** internships in SDE, data, ML, cloud, and DevOps.
 - **LinkedIn:** [inkedin.com/in/sanket-bendale-502989167/](https://www.linkedin.com/in/sanket-bendale-502989167/)  
 - **GitHub:** [github.com/sanket3122](https://github.com/sanket3122)  
 - **Portfolio:** [Website]()  
-
+-->
 ---
 
 <!-- Optional GitHub cards (uncomment and set your username) -->
@@ -106,11 +106,11 @@ Open to **Summer 2026** internships in SDE, data, ML, cloud, and DevOps.
 
 ---
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanket3122&theme=tokyonight)
-
+<!-- 
 ## 🏆 GitHub Trophies ✨
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sanket3122&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=6" alt="GitHub Trophies" />
   <br/>
 
 </div>
-
+-->
