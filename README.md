@@ -20,6 +20,7 @@
 **MS in Data Science** @ **Stony Brook University**. Former **Software & Cloud Engineer** @ **Capgemini Technology Services**. I build reliable data pipelines, keep databases healthy, and automate the boring stuff so teams can ship faster.
 
 * Managed **75+** Azure SQL and AWS RDS instances with backups, performance tuning, and HA/DR.
+* Developed a health camp booking platform using React, Next.js, Node.js, and PostgreSQL, supporting **10k+** bookings across **15+** enterprise clients.
 * Shipped IaC for **50+** Windows and Linux servers using Terraform and Ansible orchestrated via Azure DevOps.
 * Built backend Node.js/Express APIs for an internal portal, securing endpoints with GCP Service Account auth and improved security posture by **30%** with least-privilege IAM for BigQuery read/write.
 * Added data validation, cleaning, and tuned tables for faster access, delivering 40% lower query latency.
@@ -29,7 +30,7 @@
 
 ## 🛠️ Technical Skills
 
-**Languages and CS:** C and C++, Python, SQL, Java; Data Structures, Algorithms, Probability and Statistics, Operating Systems, DBMS, Machine Learning, Computer Vision
+**Languages and CS:** C/C++, Python, SQL, Java; Data Structures, Algorithms, Probability and Statistics, Operating Systems, DBMS, Machine Learning, Computer Vision
 
 **Web:** React.js, Node.js, Express, JavaScript, HTML and CSS, REST APIs
 
@@ -44,6 +45,7 @@
 * Microsoft **AZ‑104**
 * Hashicorp Certified: **Terraform Associate**
 * Google Cloud **Associate Cloud Engineer**
+* MongoDB SI 
 
 ---
 ## 🚀 Featured Projects
