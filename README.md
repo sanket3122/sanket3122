@@ -48,7 +48,7 @@ In addition to my academic pursuits, I am a serial hobbyist and enjoy exploring 
 
 </div>
 
----
+<!---
 
 ## 🛠️ Technical Skills
 
@@ -60,7 +60,7 @@ In addition to my academic pursuits, I am a serial hobbyist and enjoy exploring 
 
 **DevOps and Tools:** Docker, Terraform, Ansible, CI and CD with Azure DevOps, Git, Linux
 
----
+--->
 ## 🔖 Certifications:
 * [AWS Certified Cloud Practitioner](https://drive.google.com/file/d/1bdkiKIQBAgcMw2-Q_7YSlZUlEdCCgLGs/view?usp=drive_link)
 * [Hashicorp Certified: Terraform Associate](https://drive.google.com/file/d/1XS1jDuN_eoxqYU1nnS7GTvwvLCcOJbgv/view?usp=sharing)
