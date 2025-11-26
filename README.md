@@ -9,7 +9,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sanket%20Bendale-blue?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/sanket-bendale-502989167/)
 [![GitHub](https://img.shields.io/badge/GitHub-sanket3122-black?logo=github)](https://github.com/sanket3122)
-[![Email](https://img.shields.io/badge/Email-sanketjaysing.bendale%40stonybrook.edu-red?logo=gmail\&logoColor=white)](mailto:sanketjaysing.bendale@stonybrook.edu)
+[![Email](https://img.shields.io/badge/Email-sanketjaysing.bendale%40stonybrook.edu-red?logo=gmail\&logoColor=white)](mailto:sanketbendale25@gmail.com)
 
 <!-- [![Portfolio](https://img.shields.io/badge/Portfolio-Website-9cf?logo=google-chrome&logoColor=black)](https://YOUR_PORTFOLIO_URL) -->
 
@@ -17,14 +17,36 @@
 
 ## 📖 About Me
 
-**MS in Data Science** @ **Stony Brook University**. Former **Software & Cloud Engineer** @ **Capgemini Technology Services**. I build reliable data pipelines, keep databases healthy, and automate the boring stuff so teams can ship faster.
+I am Sanket, a graduate student at Stony Brook University in New York, pursuing a Master's in Data Science (CS + Applied Maths). I have a background in software development, Cloud Engineering, and DevOps, having previously worked as a software engineer at Capgemini for over 3 years. Before pursuing my graduate studies, I completed my B.Tech in Information Technology from Government College of Engineering, Karad.
 
-* Managed **75+** Azure SQL and AWS RDS instances with backups, performance tuning, and HA/DR.
-* Developed a health camp booking platform using React, Next.js, Node.js, and PostgreSQL, supporting **10k+** bookings across **15+** enterprise clients.
-* Shipped IaC for **50+** Windows and Linux servers using Terraform and Ansible orchestrated via Azure DevOps.
-* Built backend Node.js/Express APIs for an internal portal, securing endpoints with GCP Service Account auth and improved security posture by **30%** with least-privilege IAM for BigQuery read/write.
-* Added data validation, cleaning, and tuned tables for faster access, delivering 40% lower query latency.
-* Operated **15+** ETL and ELT pipelines on GCP with Apache Airflow and optimized BigQuery for **≈30%** lower query cost.
+I aim to become the best software engineer. 
+
+In addition to my academic pursuits, I am a serial hobbyist and enjoy exploring new ideas in the fields of science. I am also an avid hiker and like to explore different adventure sports.
+
+<!--- 👨‍💻 Website: [https://.github.io](https://.github.io)
+-->
+- 📝 Blog (I don't write often): [https://medium.com/@sanketbendale25](https://medium.com/@sanketbendale25)
+
+- 📫 Linkedin: [https://www.linkedin.com/in/sanket-bendale-502989167/](https://www.linkedin.com/in/sanket-bendale-502989167/)
+
+- 📧 Email: [sanketbendale25@gmail.com](mailto:sanketbendale25@gmail.com)
+
+---
+
+<h2>📊 Stats</h2>
+
+<div align="center">
+<a>
+<img src="https://raw.githubusercontent.com/sanket3122/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://raw.githubusercontent.com/sanket3122/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
+</a>
+
+<a>
+<img src="https://raw.githubusercontent.com/sanket3122/github-stats/master/generated/overview.svg#gh-light-mode-only" />
+<img src="https://raw.githubusercontent.com/sanket3122/github-stats/master/generated/languages.svg#gh-light-mode-only" />
+</a>
+
+</div>
 
 ---
 
@@ -40,13 +62,16 @@
 
 ---
 ## 🔖 Certifications:
-* AWS **Certified Cloud Practitioner**
-* Microsoft **AZ‑900**
-* Microsoft **AZ‑104**
-* Hashicorp Certified: **Terraform Associate**
-* Google Cloud **Associate Cloud Engineer**
-* MongoDB SI 
+* [AWS Certified Cloud Practitioner](https://drive.google.com/file/d/1bdkiKIQBAgcMw2-Q_7YSlZUlEdCCgLGs/view?usp=drive_link)
+* [Hashicorp Certified: Terraform Associate](https://drive.google.com/file/d/1XS1jDuN_eoxqYU1nnS7GTvwvLCcOJbgv/view?usp=sharing)
+* [Microsoft AZ‑104](https://learn.microsoft.com/api/credentials/share/en-us/SanketBendale-4586/C4AFA7B4C802B376?sharingId=42E094DCC98769EE)
+* [Microsoft AZ‑900](https://learn.microsoft.com/en-us/users/sanketbendale-4586/credentials/ce929545b8cd3863)
+* [Microsoft AI‑Fundamental](https://drive.google.com/file/d/1gY1HDNbLFGavqC6MTo3tLglE-X_On_O0/view?usp=sharing)
+* [Google Cloud Associate Cloud Engineer](https://drive.google.com/file/d/1xgSjbgqwLtBzNwXK3C6-PdHoAXwrCOEK/view?usp=drive_link)
+* [MongoDB SI Architect](https://drive.google.com/file/d/1Z0PAjWEtlrnVI5C7S9-bDmT3UmSg14LO/view?usp=sharing)
+* [Collibra Solution Architect](https://drive.google.com/file/d/1eKvY1LWFHtsAmD3qxoSG66nfVkk8tYmh/view?usp=sharing)
 
+<!--
 ---
 ## 🚀 Featured Projects
 
@@ -67,7 +92,7 @@
 * **Stony Brook University** — MS in Data Science, Aug 2025 to May 2027
 * **Government College of Engineering, Karad** — B.Tech in Information Technology, CGPA 8.5 out of 10, Aug 2018 to Jun 2022
 
-<!--
+
 
 ## 🏆 Awards and Recognition
  
@@ -101,6 +126,9 @@ Open to **Summer 2026** internships in SDE, data, ML, cloud, and DevOps.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanket3122&layout=compact)
 -->
 
+
+
+<!-- 
 # 📊 GitHub Stats: 📈
 
 ![Sanket's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanket3122&show_icons=true&theme=tokyonight)
@@ -108,7 +136,7 @@ Open to **Summer 2026** internships in SDE, data, ML, cloud, and DevOps.
 
 ---
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanket3122&theme=tokyonight)
-<!-- 
+
 ## 🏆 GitHub Trophies ✨
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sanket3122&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=6" alt="GitHub Trophies" />
