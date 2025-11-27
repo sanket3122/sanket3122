@@ -7,11 +7,12 @@
   />
 </div>
 
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sanket%20Bendale-blue?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/sanket-bendale-502989167/)
 [![GitHub](https://img.shields.io/badge/GitHub-sanket3122-black?logo=github)](https://github.com/sanket3122)
 [![Email](https://img.shields.io/badge/Email-sanketjaysing.bendale%40stonybrook.edu-red?logo=gmail\&logoColor=white)](mailto:sanketbendale25@gmail.com)
 
-<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-Website-9cf?logo=google-chrome&logoColor=black)](https://YOUR_PORTFOLIO_URL) -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanket3122&label=Profile%20views&color=0e75b6&style=flat" alt="sanket3122" /> </p><!-- [![Portfolio](https://img.shields.io/badge/Portfolio-Website-9cf?logo=google-chrome&logoColor=black)](https://YOUR_PORTFOLIO_URL) -->
 
 ---
 
