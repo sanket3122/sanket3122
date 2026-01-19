@@ -25,7 +25,7 @@ I aim to become the best software engineer.
 In addition to my academic pursuits, I am a serial hobbyist and enjoy exploring new ideas in the fields of science. I am also an avid hiker and like to explore different adventure sports.
 
 - 👨‍💻 Website: [https://.github.io](https://sanket3122.github.io/)
-- 
+
 - 📝 Blog (I don't write often): [https://medium.com/@sanketbendale25](https://medium.com/@sanketbendale25)
 
 - 📫 Linkedin: [https://www.linkedin.com/in/sanket-bendale-502989167/](https://www.linkedin.com/in/sanket-bendale-502989167/)
