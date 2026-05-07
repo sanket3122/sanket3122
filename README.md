@@ -18,7 +18,7 @@
 
 ## 📖 About Me
 
-I am Sanket, a graduate student at Stony Brook University in New York, pursuing a Master's in Data Science (CS + Applied Maths). I have a background in software development, Cloud Engineering, and DevOps, having previously worked as a software engineer at Capgemini for over 3 years. Before pursuing my graduate studies, I completed my B.Tech in Information Technology from Government College of Engineering, Karad.
+I am Sanket, a graduate student at Stony Brook University in New York, pursuing a Master’s in Computer Science, Applied Mathematics, and Statistics. I have a background in software development, Cloud Engineering, and DevOps, having previously worked as a software engineer at Capgemini for over 3+ years. Before pursuing my graduate studies, I completed my B.Tech in Information Technology from Government College of Engineering, Karad.
 
 I aim to become the best software engineer. 
 
