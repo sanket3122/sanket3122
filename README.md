@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Sanket Bendale
 
-<div align="center">
+<!-- <div align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=600&center=true&vCenter=true&repeat=true&width=900&lines=SDE+%E2%80%A2+DevOps+%E2%80%A2+Cloud+%E2%80%A2+Database"
     alt="SDE • DevOps • Cloud • Database"
   />
-</div>
+</div> -->
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sanket%20Bendale-blue?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/sanket-bendale-502989167/)
