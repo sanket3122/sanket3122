@@ -15,7 +15,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanket3122&label=Profile%20views&color=0e75b6&style=flat" alt="sanket3122" /> </p><!-- [![Portfolio](https://img.shields.io/badge/Portfolio-Website-9cf?logo=google-chrome&logoColor=black)](https://YOUR_PORTFOLIO_URL) -->
 
 ---
-
+<!--
 ## 📖 About Me
 
 I am Sanket, a graduate student at Stony Brook University in New York, pursuing a Master’s in Computer Science, Applied Mathematics, and Statistics. I have a background in software development, Cloud Engineering, and DevOps, having previously worked as a software engineer at Capgemini for over 3+ years. Before pursuing my graduate studies, I completed my B.Tech in Information Technology from Government College of Engineering, Karad.
@@ -24,6 +24,7 @@ I aim to become the best software engineer.
 
 In addition to my academic pursuits, I am a serial hobbyist and enjoy exploring new ideas in the fields of science. I am also an avid hiker and like to explore different adventure sports.
 
+ -->
 - 👨‍💻 Website: [https://sanket3122.github.io/](https://sanket3122.github.io/)
 
 - 📝 Blog (I don't write often): [https://medium.com/@sanketbendale25](https://medium.com/@sanketbendale25)
@@ -64,13 +65,11 @@ In addition to my academic pursuits, I am a serial hobbyist and enjoy exploring 
 --->
 ## 🔖 Certifications:
 * [AWS Certified Cloud Practitioner](https://drive.google.com/file/d/1bdkiKIQBAgcMw2-Q_7YSlZUlEdCCgLGs/view?usp=drive_link)
-* [Hashicorp Certified: Terraform Associate](https://drive.google.com/file/d/1XS1jDuN_eoxqYU1nnS7GTvwvLCcOJbgv/view?usp=sharing)
 * [Microsoft AZ‑104](https://learn.microsoft.com/api/credentials/share/en-us/SanketBendale-4586/C4AFA7B4C802B376?sharingId=42E094DCC98769EE)
 * [Microsoft AZ‑900](https://learn.microsoft.com/en-us/users/sanketbendale-4586/credentials/ce929545b8cd3863)
 * [Microsoft AI‑Fundamental](https://drive.google.com/file/d/1gY1HDNbLFGavqC6MTo3tLglE-X_On_O0/view?usp=sharing)
 * [Google Cloud Associate Cloud Engineer](https://drive.google.com/file/d/1xgSjbgqwLtBzNwXK3C6-PdHoAXwrCOEK/view?usp=drive_link)
 * [MongoDB SI Architect](https://drive.google.com/file/d/1Z0PAjWEtlrnVI5C7S9-bDmT3UmSg14LO/view?usp=sharing)
-* [Collibra Solution Architect](https://drive.google.com/file/d/1eKvY1LWFHtsAmD3qxoSG66nfVkk8tYmh/view?usp=sharing)
 
 <!--
 ---
